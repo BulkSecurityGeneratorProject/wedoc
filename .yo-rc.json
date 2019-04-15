@@ -1,0 +1,41 @@
+{
+  "generator-jhipster": {
+    "applicationType": "monolith",
+    "gitCompany": "",
+    "baseName": "wedoc",
+    "packageName": "com.we.doc",
+    "packageFolder": "com/we/doc",
+    "serverPort": 8080,
+    "serviceDiscoveryType": false,
+    "authenticationType": "jwt",
+    "uaaBaseName": "../uaa",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "mysql",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "enableSwaggerCodegen": false,
+    "messageBroker": false,
+    "buildTool": "maven",
+    "useSass": false,
+    "clientPackageManager": "npm",
+    "testFrameworks": [],
+    "enableTranslation": false,
+    "nativeLanguage": "en",
+    "languages": [
+      "en"
+    ],
+    "clientFramework": "angularX",
+    "jhiPrefix": "jhi",
+    "jhipsterVersion": "5.8.2",
+    "jwtSecretKey": "NTMzNWZiMTE5YjZlMzJkOWQ3ZWMwMmQxZTIzOTFhZTRjOTZkNjdiNjg0ZjlkYzI3MWNlOWQwMGI1NWJiMzI2Y2Y4ZmYyNDM5MTc2ODIxMDU1NDAxYzAwYzY1YjQ5OTVkMGU3ZmI5NjRiMTUxNmNhODJjNDMxM2ViYzZkZTkzY2E=",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": []
+  },
+  "git-provider": "GitHub",
+  "git-company": "wissem-haouari",
+  "repository-name": "wedoc"
+}
